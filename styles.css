@@ -1,0 +1,13 @@
+h1 {
+	font-size: 40px;
+	color: gray;
+}
+
+.frsit {
+	padding: 82px;
+	color: red;
+}
+
+#smallheader {
+	position: absolute;
+}
